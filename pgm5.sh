@@ -6,3 +6,4 @@ do
 echo $n
 n=`expr $n - 1`
 done
+echo "count down ends.."

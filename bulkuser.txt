@@ -1,0 +1,6 @@
+user2:user2:1011:1000:user2:/home/user2:/bin/bash
+user3:user3:1012:1000:user3:/home/user3:/bin/bash
+user4:user4:1013:1000:user4:/home/user4:/bin/bash
+user5:user5:1014:1000:user5:/home/user5:/bin/bash
+user6:user6:1015:1000:user6:/home/user6:/bin/bash
+user7:user7:1016:1000:user7:/home/user7:/bin/bash

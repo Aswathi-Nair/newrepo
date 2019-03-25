@@ -13,3 +13,4 @@ if [ $t -eq $s ]; then
 else
   echo "not palindrome"
 fi 
+gfhfghgvhg
